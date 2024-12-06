@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NolyK
 - 🌱 I’m currently learning: FrontEnd
 - 💞️ I’m doest looking collaborate
-- 📫 How to reach me telegram: @n0lyk
+- 📫 How to reach me telegram: @nolyktg
